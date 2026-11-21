@@ -1,0 +1,64 @@
+id,prediction,method,settings,score,class,success,desc,notes1,notes2,notes3
+NA,NA,NA,NA,NA,NA,1,Potencial #63,-57525.1,-13729.9,lost settings
+NA,NA,NA,NA,NA,NA,1,Potencial #64,-57389.6,-13793,lost settings
+NA,NA,NA,NA,NA,NA,1,Potencial #65,-57309.1,-13922.9,lost settings
+NA,NA,NA,NA,NA,NA,1,Potencial #66,-46412.4,-18572.1,lost settings
+NA,NA,NA,NA,NA,NA,1,Potencial #67,-46417.6,-18567.6,lost settings
+NA,NA,NA,NA,NA,NA,1,Potencial #68,-46462.7,-18630.7,lost settings
+NA,NA,NA,NA,NA,NA,1,Potencial #69,-46220.6,-19004.1,lost settings
+NA,NA,NA,NA,NA,NA,1,Potencial #70,-46227.4,-18994,lost settings
+NA,NA,NA,NA,NA,NA,1,Gruteca dos Mosquitos,-46236.9,-18986.2,lost settings
+NA,NA,NA,NA,NA,NA,1,Gruteca dos Mosquitos II,-46238.5,-18979.5,lost settings
+NA,NA,NA,NA,NA,NA,1,Algar do Obrigado,-46586.5,-18901.9,lost settings
+NA,NA,NA,NA,NA,NA,1,Potencial #73,-47686,-18066,lost settings
+NA,NA,NA,NA,NA,NA,1,Potencial #74,-47362.2,-19315.8,lost settings
+NA,NA,NA,NA,NA,NA,1,Potencial #75,-47401.2,-19342.2,lost settings
+NA,NA,NA,NA,NA,NA,1,Potencial #76,-47405.6,-19355.5,lost settings
+NA,NA,NA,NA,NA,NA,1,Potencial #77,-47386.6,-19204.6,lost settings
+NA,NA,NA,NA,NA,NA,1,Potencial #78,-47644,-19161,lost settings
+NA,82989,3,score threshold 0.2,,2,0,moinho abandonado,,,
+NA,82989,3,score threshold 0.2,,3,1,megalapias fendas muito profundas,,,
+NA,82989,3,score threshold 0.2,,2,1,megalias fendas profundas,,,
+NA,82989,3,score threshold 0.2,,3,1,fenda 5m,,,
+NA,75175,3,score threshold 0.4,,3,1,pequeno abrigo obstruido,,,
+NA,4949,3,score threshold 0.4,,4,1,algar 8m,,,
+NA,4949,3,score threshold 0.4,,4,1,algar 6m,,,
+NA,4949,3,score threshold 0.4,,4,1,algar 15m,,,
+NA,4949,3,score threshold 0.4,,3,1,pequeno abatimento,,,
+NA,4949,3,score threshold 0.4,,4,1,buracao 5m,,,
+NA,59868,3,score threshold 0.4,,2,1,dolina com silvado intimidante pode ter gruta,,,
+NA,56842,3,score threshold 0.4,,4,0,talvez dois pontos com erro,,,
+NA,72441,3,score threshold 0.4,,4,1,moinho abandonado mas coincidentemente com gruta,,,
+NA,72441,3,score threshold 0.4,,4,0,artificial,,,
+NA,72441,3,score threshold 0.4,,3,0,artificial,,,
+NA,72441,3,score threshold 0.4,,4,1,"Dolina ou algar com silvado, nao entrámos",,,
+NA,72441,3,score threshold 0.4,,4,1,algar 4m,,,
+NA,72441,3,score threshold 0.4,,4,0,ruína de forno de cal?,,,
+NA,72441,3,score threshold 0.4,,4,1,"Dolina profunda ou algar com silvado, nao entrámos",,,
+NA,19719,3,score threshold 0.4,,3,0,talvez dois pontos com erro,,,
+2122,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.6,0.6958,2,1,pequeno abatimento,,,
+7087,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.6,0.800266667,2,1,dolina de abatimento,,,
+7204,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.6,0.834416667,3,1,algar 20m,,,
+7211,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.6,0.904466667,3,1,lapiás profundo 2m,,,
+8769,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.6,0.63245,2,1,Pequeno campo de dolinas no lapiás.,,,
+68522,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.6,0.886183333,3,1,dolina,,,
+68524,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.6,0.951566667,3,1,dolina,,,
+1664,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.5,0.575066667,3,0,"Lapiás, pouco interessante",,,
+1673,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.5,0.734616667,3,1,"Pequeno algar com 3 m, obstruído com blocos.",,,
+5076,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.5,0.678,4,1,Algar obstruído por blocos grandes.,,,
+5087,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.5,0.867233333,4,1,Lapiás muito fraturado com fendas profundas 2 m.,,,
+7116,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.5,0.636916667,2,0,"Pequena depressão, sem interesse",,,
+9934,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.5,0.5079,3,1,Fenda 2 m.,,,
+1368,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.5,0.979616667,4,1,Gruta do Cheirinho,,,
+2961,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.5,0.728133333,2,0,artificial,,,
+2962,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.5,0.740816667,3,0,artificial,,,
+3213,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.5,0.93705,3,1,"Pia muito profunda, minimo 6m",,,
+3266,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.5,0.653383333,3,1,Dolina ou escavação artificial (marcas de broca),,,
+3861,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.5,0.902833333,3,1,"Pia profunda, tapada por laje.",,,
+4682,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.5,0.646833333,3,1,abatimento 1.5m,,,
+5623,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.5,0.748566667,4,0,erro duplo na pointcloud (dois pontos anomalos),,,
+6579,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.5,0.892266667,4,1,Dolina profunda 4m,,,
+7822,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.5,0.72595,4,1,Pias,,,
+7829,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.5,0.965983333,4,1,"Pia grande, 5m",,,
+8891,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.5,0.898883333,4,1,Algar,,,
+9120,2.03E+11,model,method=model; radius=10; isolated_policy=include; remove_edges=TRUE; remove_waterlines=TRUE; inspection=TRUE; score_threshold=0.5,0.948883333,4,1,dolina de abatimento 2m,,,
